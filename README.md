@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+YOUR-DARKMODE-IMAGE
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://static.bnr.bg/gallery/27/27fb8ea40d7536f95a4669279215d143.jpg">
+  
+ <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM7k_EkhYzeHjeLhGzlVGckWxt9nQR-xg_g&s">
+ 
+ <img alt="YOUR-ALT-TEXT" src="https://feelbulgaria.net/wp-content/uploads/2022/01/Untitled-design-9.jpg">
+</picture>
